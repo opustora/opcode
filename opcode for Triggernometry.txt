@@ -1,0 +1,11 @@
+StatusEffectList,074
+Ability1,3ca
+ActorCast,15d
+AddStatusEffect,387
+ActorControl142,0b0
+ActorControl143,2b6
+ActorControl144,3c5
+UpdateHpMpTp,1a7
+NpcSpawn,0d2
+ActorGauge,1c1
+
