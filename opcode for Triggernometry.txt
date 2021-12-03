@@ -5,7 +5,7 @@ Ability16,02CE
 Ability24,02ED
 Ability32,023A
 ActorCast,0108
-AddStatusEffect,387
+AddStatusEffect,0196
 ActorControl142,017E
 ActorControl143,2b6
 ActorControl144,0168
