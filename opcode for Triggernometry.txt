@@ -8,4 +8,3 @@ ActorControl144,3c5
 UpdateHpMpTp,1a7
 NpcSpawn,0d2
 ActorGauge,1c1
-
