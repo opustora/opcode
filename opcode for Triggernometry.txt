@@ -1,5 +1,6 @@
 StatusEffectList,02C5
 Ability1,035A
+Ability8,01BA
 ActorCast,0108
 AddStatusEffect,387
 ActorControl142,017E
