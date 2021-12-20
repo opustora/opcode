@@ -1,5 +1,5 @@
 StatusEffectList,2C5
-StatusEffectList2,2aa
+StatusEffectList2,13e
 StatusEffectList3,07a
 BossStatusEffectList,13A
 Ability1,35a
@@ -8,10 +8,11 @@ Ability16,2ce
 Ability24,2ed
 Ability32,23a
 ActorCast,108
-AddStatusEffect,ABCD
-ActorControl142,17e
-ActorControl143,2e6
-ActorControl144,168
+EffectResult,196
+EffectResultBasic,2d8
+ActorControl,17e
+ActorControlSelf,2e6
+ActorControlTarget,168
 UpdateHpMpTp,296
 PlayerSpawn,127
 NpcSpawn,32E
