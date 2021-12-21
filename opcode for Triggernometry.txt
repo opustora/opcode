@@ -3,7 +3,7 @@ StatusEffectList2,13e
 StatusEffectList3,07a
 BossStatusEffectList,13A
 Ability1,01d0
-Ability8,02be
+Ability8,02B0
 Ability16,0288
 Ability24,0238
 Ability32,23a
