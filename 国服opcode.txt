@@ -1,6 +1,6 @@
 StatusEffectList,015E
 StatusEffectList2,013D
-BossStatusEffectList,CAFE
+BossStatusEffectList,ABCD
 Ability1,032E
 Ability8,020D
 Ability16,00DF
