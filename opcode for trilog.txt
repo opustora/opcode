@@ -2,5 +2,4 @@ GroundEffect,0269
 ObserveMoving,0233
 SetPos,0299
 ActorCast,02F2
-NoTrlog,CAFE
-AllTrlog,
+
