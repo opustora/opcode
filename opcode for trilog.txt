@@ -1,4 +1,4 @@
-UpdateDate,2021DEC26
+UpdateDate,2021DEC26(Patch 6.01)
 GroundEffect,0269
 ObserveMoving,0233
 SetPos,0299
