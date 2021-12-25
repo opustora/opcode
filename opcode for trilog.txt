@@ -3,3 +3,4 @@ ObserveMoving,0233
 SetPos,0299
 ActorCast,02F2
 TrlogOff,CAFE
+TrlogOn,
