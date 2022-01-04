@@ -1,7 +1,7 @@
-﻿StatusEffectList,188
-StatusEffectList2,FFF
-StatusEffectList3,FFF
-BossStatusEffectList,FFF
+StatusEffectList,188
+StatusEffectList2,293
+StatusEffectList3,353
+BossStatusEffectList,38f
 Ability1,33e
 Ability8,1f4
 Ability16,1fa
@@ -14,12 +14,11 @@ ActorControl,2cf
 ActorControlSelf,96
 ActorControlTarget,272
 UpdateHpMpTp,f4
-PlayerSpawn,338
+PlayerSpawn,1e8
 NpcSpawn,1d2
-NpcSpawn2,fff
+NpcSpawn2,270
 ActorMove,db
 ActorSetPos,81
 ActorGauge,22d
 PresetWaymark,67
 Waymark,fd
-SystemLogMessage,FFF
